@@ -1,0 +1,122 @@
+body
+{
+    padding-top: 54px;
+    font-family: B yekan !important;
+    text-align: right !important;
+    background: #F4F7F6 !important;
+}
+@media (min-width: 992px)
+{
+    body
+    {
+        padding-top: 56px;
+        background: #F4F7F6 !important;
+    }
+}
+#navigation
+{
+    background: #F4F7F6 !important;
+}
+.nav-color
+{
+    color: #202121 !important;
+}
+.nav-color:hover {
+    color: #64686A !important;
+}
+.icons-height
+{
+    line-height: 1.3em;
+    margin-left: 0.2em;
+}
+#img-marg-bottom
+{
+    margin-bottom: 2em;
+}
+.btn-color
+{
+    border: 1px solid #aaaaaa;
+    color: #008080 !important;
+}
+.btn-color:hover
+{
+    background: #ADD8E6;
+    color: #87CEEB;
+}
+.a-link
+{
+    color: black;
+    text-decoration: none;
+}
+.a-link:hover
+{
+    color: #444444;
+    text-decoration: none;
+}
+#home-img
+{
+    height: 300px !important;
+    width: 750px !important;
+}
+
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    right: 0.8em;
+    top: 0.8em;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    z-index: 1000;
+}
+#return-to-top:hover {
+    background: rgba(0, 0, 0, 0.9);
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: 5px;
+}
+.paragraph
+{
+    font-family: B yekan !important;
+    font-size: 1.1em ;
+    line-height: 1.5em !important;
+}
+.paragraph img
+{
+    max-width: 60em !important;
+}
+.pagination
+{
+    display: inline-flex !important;
+}
+.cm
+{
+    color: #333333 !important;
+    font-family: B yekan;
+}

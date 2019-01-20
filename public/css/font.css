@@ -1,0 +1,9 @@
+/* CSS Document */
+
+@font-face {
+	font-family: "Byekan";
+	src: url(../font/Yekan.eot);
+	src: url(../font/Yekan.eot#iefix) format("embedded-opentype"), url(../font/Yekan.woff) format("woff"), url(../font/Yekan.ttf) format("truetype"), url(../font/Yekan.svg#Byekan) format("svg");
+	font-weight: normal;
+	font-style: normal;
+}

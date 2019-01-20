@@ -1,0 +1,42 @@
+body {
+    text-align: right !important;
+    font-family: B yekan;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+}
+
+.margin-top {
+    margin-top: 2.5em;
+}
+
+.side-color {
+    background: #ECF0F1 !important;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+.a-link
+{
+    color: black;
+    text-decoration: none;
+}
+.a-link:hover
+{
+    color: #444444;
+    text-decoration: none;
+}
+.suc-number
+{
+    border: 1px #ccc solid;
+    border-radius: 100%;
+    background: #aaa;
+    color: black;
+    margin-right: 0.3em;
+    padding: 0 0.3em;
+}
